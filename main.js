@@ -68,7 +68,7 @@
 var limite = 21
 var edad = 17
 if (edad >= limite) {
-    console.log('tu edad es ${edad} SI puedes votar')
+    console.log('tu edad es SI puedes votar')
 } else {
-    console.log('tu edad es ${edad} NO puedes votar')
+    console.log('tu edad es NO puedes votar')
 }
